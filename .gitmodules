@@ -1,0 +1,4 @@
+[submodule "gbp-packages"]
+	path = gbp-packages
+	url = https://github.com/nickolaev/gbp-packages.git
+	branch = ppa/mitaka
